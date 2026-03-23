@@ -64,5 +64,4 @@ talo = Talo(0,10,2)
 talo.liikuminen(1,5)
 # liikutaa hissiä numero 2
 talo.liikuminen(2,6)
-#liikutaa hissin numero 1 takaisin alku pisteeseen
-talo.liikuminen(1,0)
+
