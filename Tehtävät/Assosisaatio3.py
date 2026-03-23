@@ -49,6 +49,8 @@ class Talo:
         print(f"{hissi_nmr}")
         sinun_hissi.siirtyminen(kohde)
 
+    
+#----------tässä on 3 tehtävän asiat-------------
     def paloHalytys(self):
         print("HAAHAA vedin palo halytys vivusta  nyt kaikki hissit palaavat 0 kerrokseen :3")
         print("" + "=" * 30)
