@@ -33,6 +33,10 @@ class hissi:
                  # sama mutta alas
                 elif self.nykyinen > tavoite:
                     self.kerros_alas()
+
+
+# ------Tässä on 2 tehtävän asiat-----------
+
 # tekee talo luokan jossa ylin ja alin hissi sekä hissien määrä
 class Talo:
     def __init__(self, alin, ylin,hissi_maara):
