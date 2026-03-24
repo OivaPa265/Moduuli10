@@ -67,3 +67,4 @@ print("" + "=" * 30)
 # tekee palohalytksen ja latiaa hisit 0 kerrokseen
 talo.paloHalytys()
 print("" + "=" * 30)
+print(" hissit ovat palaneet 0 kerrokseen")
